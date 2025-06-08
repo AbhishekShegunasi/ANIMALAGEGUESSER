@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Animal Identifier & Age Guesser",
+  "description": "Upload an image of an animal to identify its species, kingdom, and get a perceived age guess using AI. This application leverages Gemini API for analysis."
+}
